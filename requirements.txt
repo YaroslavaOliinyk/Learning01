@@ -1,4 +1,4 @@
-streamlit
-numpy==1.21.3
-math 
-plotly
+streamlit>=1.25.0
+numpy>=1.21.0,<1.26.0
+plotly>=5.0.0
+math
